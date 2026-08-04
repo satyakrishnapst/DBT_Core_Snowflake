@@ -7,7 +7,7 @@ APDF:
       user: SAITEJAPSK
       password: Mymacbook@2026
       role: ACCOUNTADMIN
-      database: DEV
+      database: UAT
       warehouse: COMPUTE_WH
       schema: RAW_LAYER
       threads: 4
