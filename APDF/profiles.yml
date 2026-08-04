@@ -1,0 +1,13 @@
+APDF:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: tjvffqo-qz66382
+      user: SAITEJAPSK
+      password: Mymacbook@2026
+      role: ACCOUNTADMIN
+      database: UAT
+      warehouse: COMPUTE_WH
+      schema: RAW_LAYER
+      threads: 4
