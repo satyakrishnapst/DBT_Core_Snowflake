@@ -1,1 +1,1 @@
-select 'Sai Teja Psk' as name, 'Pillarisetti' as surname, 26 as age, 'Mymacbook@2026' as password;
+select 'Sai Teja Psk' as name, 'Pillarisetti' as surname, 26 as age, 'Mymacbook@2026' as password
